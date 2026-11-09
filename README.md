@@ -1,6 +1,6 @@
 # استخراج النصوص من المخطوطات العربية
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/{OWNER}/{REPO}/blob/main/arabic_ocr.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ALWAQAD-afk/OCR/blob/main/arabic_ocr.ipynb)
 
 أداة بسيطة ومجانية بالكامل لاستخراج النصوص من المخطوطات والوثائق العربية المصورة (PDF) باستخدام نموذج الذكاء الاصطناعي **Qwen2-VL-2B**.
 
